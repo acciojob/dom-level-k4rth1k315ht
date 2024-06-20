@@ -3,7 +3,7 @@ const targetLevel = document.getElementById("level");
 
 function getDonLevel(element){
 
-let level;
+let level=0;
 
 // parentElement;
 
@@ -25,4 +25,4 @@ return level;
 
 const domLevel getDomLevel(targetLevel);
 
-alert('The Level of the element is: ${domLevel}');
+alert('The Level of the element is: ${domLevel}' );
