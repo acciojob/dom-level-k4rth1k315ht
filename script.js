@@ -1,7 +1,7 @@
 //your JS code here. If required.
 const targetLevel = document.getElementById("level");
 
-function getDonLevel(element){
+function getDomLevel(element){
 
 let level=0;
 
