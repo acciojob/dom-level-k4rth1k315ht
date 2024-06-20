@@ -15,7 +15,7 @@ while(element){
 
 level++;
 
-element element.parentElement;
+element=element.parentElement;
 
 }
 
