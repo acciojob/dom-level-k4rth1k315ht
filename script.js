@@ -23,6 +23,6 @@ return level;
 
 }
 
-const domLevel getDomLevel(targetLevel);
+const domLevel =getDomLevel(targetLevel);
 
 alert(`The Level of the element is: ${domLevel}` );
